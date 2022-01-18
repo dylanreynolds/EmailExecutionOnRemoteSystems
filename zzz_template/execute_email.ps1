@@ -21,7 +21,7 @@ Start-Transcript "c:\Scripts\email_transcript_temp.txt"
 # Stop transcript and make it available for Outlook to send back
 
 $UserName = "admin"
-$ComputerName = "ela-mgt-07"
+$ComputerName = "[insert computer name]"
 $Password = Get-Content c:\scripts\encrypted_password.txt | ConvertTo-SecureString
 $credential = New-Object System.Management.Automation.PsCredential($UserName, $Password)
 
