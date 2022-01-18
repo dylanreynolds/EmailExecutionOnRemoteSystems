@@ -1,0 +1,23 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20210906124259
+Username: EYELIGHTING\dreynolds
+RunAs User: EYELIGHTING\dreynolds
+Configuration Name: 
+Machine: LCA-QLD-OPT-PC1 (Microsoft Windows NT 10.0.19043.0)
+Host Application: powershell.exe c:\scripts\execute_email.ps1
+Process ID: 13336
+PSVersion: 5.1.19041.1151
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1151
+BuildVersion: 10.0.19041.1151
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is c:\Scripts\email_transcript_temp.txt
+**********************
+Windows PowerShell transcript end
+End time: 20210906124304
+**********************
