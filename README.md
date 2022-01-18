@@ -1,5 +1,5 @@
 # EmailExecutionOnRemoteSystems
-Uses Outlook rules to run a macro and execute a powershell script.
+Uses Outlook rules to run a rule and execute a powershell script.
 
 The use case was a workaround to allow users to email a mailbox and complete a reboot of their PC while working from home.  As the VPN allowed RDP *cringe* to their work PCs on standard ports.
 
